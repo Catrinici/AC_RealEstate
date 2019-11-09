@@ -12,7 +12,7 @@
 * ##### Dashboard (Inquiries)
 
 ### DESIGN SPECS
-* ##### Use BTRE logo (Frontend and admin)
+* ##### Use ACRE logo (Frontend and admin)
 * ##### Branding colors – blue(#10284e) green(#30caa0)
 * ##### Mobile Friendly
 * ##### Social media icons & contact info
